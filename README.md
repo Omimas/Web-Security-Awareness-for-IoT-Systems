@@ -1,4 +1,4 @@
-## The continuation will be "Web_Security_Awareness_V1.06"
+## The continuation will be "Web_Security_Awareness_V1.06" (in progress)
 
 This project focuses on implementing a secure device authentication system with AES encryption to ensure the safe transmission of data. The system allows users to authenticate using their device ID and token. Once authenticated, the system ensures that the device data is transmitted securely, preventing unauthorized access.
 
