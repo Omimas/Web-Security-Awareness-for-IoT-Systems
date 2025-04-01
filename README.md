@@ -8,4 +8,4 @@ To enhance security, the system uses AES encryption via the CryptoJS library to 
 
 This system is ideal for applications where secure device communication and data transmission are critical, such as IoT devices, secure server interactions, or any system that requires encrypted communication for privacy protection.
 
-##The next update will be received on April 11, 2025
+## The next update will be received on April 11, 2025
