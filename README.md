@@ -13,4 +13,4 @@ This system is ideal for applications where secure device communication and data
 ## deviceId istanbul
 ## SecurityCode imaro
 
-## The next update will be received on April 11, 2025
+
